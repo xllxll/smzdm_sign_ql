@@ -9,13 +9,13 @@
   - github
 
     ```shell
-    ql repo https://github.com/charmingYouYou/smzdm_sign_ql.git "index" "icon" "utils" "main" "ts"
+    ql repo https://github.com/xllxll/smzdm_sign_ql.git "index" "icon" "utils" "main" "ts"
     ```
 
   - gitee(若github源拉取失败, 可修改为国内gitee源)
 
     ```shell
-    ql repo https://gitee.com/charmingyouyou/smzdm_sign_ql.git "index" "icon" "utils" "main" "ts"
+    ql repo https://gitee.com/xllxll/smzdm_sign_ql.git "index" "icon" "utils" "main" "ts"
     ```
 
 - 在青龙依赖管理中安装依赖
